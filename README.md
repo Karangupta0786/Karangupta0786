@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![IMG-20230320-WA0001](https://user-images.githubusercontent.com/128626083/227796273-0572fd4e-cd44-439e-943a-6b80c1c13577.jpg)
 
 <!--
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karangupta0786&" alt="karangupta0786" /></p>
-
+<h1 alignment = centre>Hi 👋 I'm Karan Gupta </h1>
 
