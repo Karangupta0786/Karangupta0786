@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karangupta0786&" alt="karangupta0786" /></p>
-<h1 align="center">Hi 👋 I'm Karan Gupta </h1>
+<h1 align="center"> Hi 👋 I'm Karan Gupta </h1>
 
