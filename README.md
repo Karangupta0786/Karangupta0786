@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karangupta0786&label=Profile%20views&color=0e75b6&style=flat" alt="karangupta0786" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karangupta0786&" alt="karangupta0786" /></p>
+
+- 🌱 I’m currently learning *DSA And Android*
+
+- 👨‍💻 All of my projects are available at my GitHub profile.
+
+- 💬 Ask me about *Java DSA, Android Development and Kotlin*
+
+- 📫 How to reach me *karangupta0786@gmail.com*
