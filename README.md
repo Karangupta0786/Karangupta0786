@@ -4,7 +4,7 @@
 <!--
 **Karangupta0786/Karangupta0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">➤ Pre-Final year Computer Application undergraduate with an interest in Problem solving, Competitive Programming, Software development and Android development. Currently seeking SDE or android dev roles.</h3>
+<h3 align="center">➤ Final year Computer Application undergraduate with an interest in Problem solving, Competitive Programming, Software development and Android development. Currently seeking SDE or android dev roles.</h3>
 
 Here are some ideas to get you started:
 
